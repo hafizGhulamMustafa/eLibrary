@@ -20,7 +20,7 @@ if(!isset($_SESSION['username'])){ //check session is exists
           <div class="row">
               <div class="offset-md-4 col-md-4">
                 <div class="logo">
-                  <h1 style="padding-top: 20px;">E-library System</h1>
+                  <h1 style="padding-top: 25px;">E-library System</h1>
                   <!-- <a href="#"><img src="images/loginImg.png"></a> -->
                 </div>
               </div>
